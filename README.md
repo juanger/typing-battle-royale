@@ -1,8 +1,8 @@
-# typing-battle-royale
+# Typing Battle Royale
 
-## how to play
+## How to play
 
-### movment
-the arrow keys
-### goal
-the goal of the game is to learn to type and survive. 
+### Movement
+The arrow keys
+### Goal
+The goal of the game is to learn to type and survive. 
