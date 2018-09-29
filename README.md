@@ -8,11 +8,11 @@ The arrow keys
 The goal of the game is to learn to type and survive. 
 
 ## Features ideas
-*splash screen 
-*write your username
-*login
-*costomize tank
+* splash screen 
+* write your username
+* login
+* costomize tank
 
-*game arena
-*upgrade
-*game modes
+* game arena
+* upgrade
+* game modes
