@@ -11,7 +11,7 @@ The goal of the game is to learn to type and survive.
 * splash screen 
     *  write your username
     * login
-    * costomize tank
+    * customize tank
 
 * game arena
 
