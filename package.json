@@ -1,0 +1,44 @@
+{
+  "name": "typing-battle-royale",
+  "version": "0.0.1",
+  "description": "Typing game",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanger/typing-battle-royale.git"
+  },
+  "keywords": [
+    "typing",
+    "game"
+  ],
+  "author": "",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/juanger/typing-battle-royale/issues"
+  },
+  "homepage": "https://github.com/juanger/typing-battle-royale#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-eslint": "^9.0.0",
+    "babel-loader": "^8.0.2",
+    "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "eslint": "^5.5.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "expose-loader": "^0.7.3",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "phaser": "^3.13.0",
+    "webfontloader": "^1.6.28"
+  }
+}
